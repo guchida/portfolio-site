@@ -4,18 +4,22 @@ body {
     font-weight: 300;
 }
 
+/* Class for muted grey text */
 .text-muted {
     color: #BCBBBB;
 }
 
+/* Class for thinner weight text */
 .text-thin {
     font-weight: 100;
 }
 
+/* Class for larger size emphasis font */
 .title-super {
     font-size: 45px;
 }
 
+/* Adds margin space above main logo image */
 .title-logo {
     margin-top: 20px;
 }
